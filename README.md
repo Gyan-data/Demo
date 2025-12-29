@@ -1,6 +1,11 @@
-                                                                  ## Hi 👋, I'm Gyan Singh
+<h1 align="center">Hi 👋, I'm Gyan Singh</h1>
 
-### Azure Data Engineer | Databricks | PySpark | ADF | Synapse | SQL | Power BI
+<p align="center">
+Azure Data Engineer | Databricks | PySpark | ADF | Synapse | SQL | Power BI
+</p>
+
+<hr/>
+
 
 I am an **Azure Data Engineer** with hands-on experience in designing and building **end-to-end data pipelines** using **Azure Data Factory, Databricks, PySpark, ADLS Gen2, and Power BI**. I focus on creating **scalable ETL/ELT solutions** using the **Medallion Architecture (Bronze–Silver–Gold)** and delivering **business-ready insights**.
 
