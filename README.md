@@ -25,7 +25,6 @@ my cloud engineering skills.
   <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/gyansingh7/">https://www.linkedin.com/in/gyansingh7/</a></li>
 </ul>
 
-<hr/>
 
 <h2>🛠 Languages and Tools</h2>
 
@@ -33,7 +32,7 @@ my cloud engineering skills.
 <img src="https://skillicons.dev/icons?i=azure,aws,python,pyspark,git,linux,sqlserver,postgres,mongodb,github,vscode" />
 </p>
 
-<hr/>
+
 
 <h2>🏅 Certifications</h2>
 
