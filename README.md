@@ -1,6 +1,4 @@
-## Hi 👋, I'm Gyan Singh
-
----
+                                                                  ## Hi 👋, I'm Gyan Singh
 
 ### Azure Data Engineer | Databricks | PySpark | ADF | Synapse | SQL | Power BI
 
@@ -14,13 +12,11 @@ I love working on real-world data engineering projects and continuously improvin
 - 📫 Reach me at: **singhgyan9991@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/gyansingh7/
 
----
 
 ## 🛠 Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=azure,aws,python,pyspark,databricks,git,linux,sqlserver,postgres,mongodb,github,powershell,vscode" />
 
----
 
 ## 🏅 Certifications
 
