@@ -4,7 +4,6 @@
 Azure Data Engineer | Databricks | PySpark | ADF | Synapse | SQL | Power BI
 </p>
 
-<hr/>
 
 <p>
 I am an <b>Azure Data Engineer</b> with hands-on experience in designing and building
